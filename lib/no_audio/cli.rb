@@ -36,7 +36,7 @@ class CommandLineInterface
 
   ### Enabled here, as a class method - to be called anywhere ###
   def self.exit
-    puts "\n❤  Come back soon ❤\n"
+    puts "\n❤  Goodbye ❤\n"
     sleep 3/2
     system 'exit!'
   end

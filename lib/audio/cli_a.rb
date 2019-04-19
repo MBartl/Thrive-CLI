@@ -33,7 +33,7 @@ class CommandLineInterfaceA
       EOF
       # puts logo
     puts art
-    puts "           [audio announcement playing, text will proceed]"
+  
   end
 
   ### Enabled here, as a class method - to be called anywhere ###
